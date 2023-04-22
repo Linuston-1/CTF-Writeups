@@ -1,10 +1,11 @@
 ## String Things (75 Points)
 
-</br>
 
 ### Problem
 ```
-I got this binary file called "secrets", and I really wanna know whats in it. But it asks me for a password, and I have no idea what it is! Maybe you can figure it out?
+I got this binary file called "secrets", and I really wanna know whats in it. 
+But it asks me for a password, and I have no idea what it is! 
+Maybe you can figure it out?
 ```
 
 ### Solution
